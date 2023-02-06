@@ -1,7 +1,5 @@
 # trabalho-MD-5
 
-trabalho-MD-5 floppy_disk
-
 O QUE É PARA FAZER? wrench
 Usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z.
 
@@ -13,7 +11,7 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 Dependências shopping_cart
 readlineSync Execução interativa para conversar com o usuário por meio de um console.
 
-chalk É usado para estilizar o formato do texto e permite criar nossos próprios temas no projeto node.js
+chalk É utilizado para estilizar a forma do texto e permite criar nossos próprios temas no projeto node.js
 
 
 
@@ -30,3 +28,4 @@ Instale as dependências
 Abra o terminal e digite
 
 node ./index.js
+
