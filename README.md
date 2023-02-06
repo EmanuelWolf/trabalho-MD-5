@@ -19,7 +19,6 @@ chalk É usado para estilizar o formato do texto e permite criar nossos próprio
 
 Instruções para executar o programa computer.
 
-Clone o projeto.
 
 
   cd Trabalho-MD-5
