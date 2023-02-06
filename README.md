@@ -26,4 +26,4 @@ Instale as dependências
   npm i chalk
 Abra o terminal e digite
 
-node ./index.js
+Node index.js
