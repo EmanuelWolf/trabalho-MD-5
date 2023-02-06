@@ -1,7 +1,5 @@
 # trabalho-MD-5
 
-trabalho-MD-5 floppy_disk
-
 O QUE É PARA FAZER? wrench
 Usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z.
 
